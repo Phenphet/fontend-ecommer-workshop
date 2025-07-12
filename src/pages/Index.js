@@ -126,12 +126,13 @@ function Index() {
 
     const handleSave = async () => {
         try {
+           
             const payload = {
                 customerName: customerName,
                 customerPhone: customerPhone,
                 customerAddress: customerAddress,
                 payDate: payDate,
-                patTime: patTime,
+                payTime: patTime,
                 carts: carts
             }
 
@@ -147,6 +148,14 @@ function Index() {
                     text: 'ระบบได้บันทึกข้อมูลของคุณเเล้ว',
                     icon: 'success'
                 })
+
+                document.getElementById('modalCart_btnClose').click()
+
+                setCustomerName('')
+                setCustomerPhone('')
+                setCustomerAddress('')
+                setPayDate(dayjs(new Date()).format('YYYY-MM-DD'))
+                setPayTime('')
             }
         } catch (e) {
             Swal.fire({
