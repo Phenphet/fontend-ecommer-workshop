@@ -25,9 +25,9 @@
 
 ## ระบบหลังบ้าน
 
-[api-ecommer-workshop](https://katherineoelsner.com/)
+[api-ecommer-workshop](https://github.com/Phenphet/api-ecommer-workshop)
 
-[backoffice-ecommer-workshop](https://katherineoelsner.com/)
+[backoffice-ecommer-workshop](https://github.com/Phenphet/backoffice-ecommer-workshop)
 
 
 # Getting Started with Create React App
