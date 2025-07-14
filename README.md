@@ -1,3 +1,35 @@
+# Workshop Ecommerce
+
+## Feature Programs
+
+### home page 
+[-] กำการแสดงสินค้า
+
+[-] เพิ่มสินค้าลงในตะกร้า
+
+[-] สามารถลบสินค้าในตะกร้า
+
+[-] แสดงจำนวนเงิน และจำนวนสินค้า
+
+[-] ทำการสั่งซื้อสินค้า
+
+### รูปตัวอย่าง
+
+![Home page Screenshot](./src/assets/Screenshot%202025-07-14%20105014.png)
+
+หน้าโชวสิค้า
+
+![carts Screenshot](./src/assets/Screenshot%202025-07-14%20105242.png)
+
+หน้าตะกร้าสินค้า
+
+## ระบบหลังบ้าน
+
+[api-ecommer-workshop](https://katherineoelsner.com/)
+
+[backoffice-ecommer-workshop](https://katherineoelsner.com/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
